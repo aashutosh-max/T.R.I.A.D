@@ -15,6 +15,6 @@ A custom portable cyberdeck designed for penetration testing and network disrupt
 - Custom PCB (in development)
 
 ## Status
-[.] Phase 1: Concept & Design
+[In progess] Phase 1: Concept & Design
 [ ] Phase 2: PCB Prototyping
 [ ] Phase 3: Assembly & Testing
